@@ -55,7 +55,7 @@
 			"binding": "DB",
 			"database_name": "quickmail",
 			// `bun run setup` fills this in, or: wrangler d1 create <name>
-			"database_id": "a3735b385a0011d94d0cd2510334bf780999cabe",
+			"database_id": "11444042-6110-4954-ae4a-95e689693261",
 			"migrations_dir": "migrations"
 		}
 	],
